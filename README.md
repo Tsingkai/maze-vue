@@ -1,5 +1,5 @@
 # maze-vue
-
+一个普通的寻路(不是智能找最近的路线)
 ## Project setup
 ```
 npm install --registry=https://registry.npmmirror.com
