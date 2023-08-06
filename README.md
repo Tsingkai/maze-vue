@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install --registry=https://registry.npmmirror.com
 ```
 
 ### Compiles and hot-reloads for development
